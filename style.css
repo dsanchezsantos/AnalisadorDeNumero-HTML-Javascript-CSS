@@ -1,0 +1,65 @@
+/*PRINCIPAIS*/
+
+body{
+    background: gray;
+    text-align: center;
+}
+
+header{
+    background: black;
+    color: white;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 3px 3px 6px black;
+}
+
+section{
+    background: white;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+
+footer{
+    background: black;
+    border-radius: 20px;
+    font: bold 15pt Arial;
+    color: white;
+    width: 200px;
+    margin: auto;
+    margin-top: 8px;
+    box-shadow: 3px 3px 6px black;
+}
+
+p {
+    border-radius: 10px;
+    padding: 4px; 
+    font: normal 12pt Arial;
+}
+
+/*ID´S*/
+#botao{
+    margin-top: 4px;
+    background-color: black;
+    color: white;
+}
+
+#sel{
+    width: 200px;
+    margin-top: 10px;
+}
+
+#entrada{
+    margin-bottom: 8px;
+}
+
+#final{
+    text-align: left;
+    padding-left: 10px;
+    font: normal 12pt Arial;
+}
